@@ -8,4 +8,3 @@ just launch `always_online_manager.py`
 do `<prefix>help`
 
 ppl that are connected wil have `<prefix>clear` command
-$
