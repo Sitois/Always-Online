@@ -184,7 +184,7 @@ class MainBot(commands.Cog):
                         print(Fore.LIGHTRED_EX, "[-]", Fore.RED, f"Token fourni par {ctx.author.name}({ctx.author.id}) incorrect.", Style.RESET_ALL)
                         tokens_list.pop()
                     except Exception as e:
-                       await ctx.send(f"❗ Une erreur rare s'est produite. MP `pplucourt`.")
+                       await ctx.send(f"❗ Une erreur rare s'est produite. MP `{config.support_username}`.")
                        print(Fore.LIGHTBLUE_EX, "[!!!]", Fore.BLUE, f"Une erreur rare s'est produite par {ctx.author.name}{ctx.author.id}. Error: {e}", Style.RESET_ALL)
                 else:
                     await ctx.send("❗ Vous n'avez pas été wl !")

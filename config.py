@@ -4,12 +4,13 @@
 bot_token = ""
 
 bot_prefix = "!"
-
+# command in dm of the bot to connect (!start token_here)
 start_command = "start"
 # Display informations.
 list_command = "list"
 help_command = "secret" #DO NOT ENTER "help" !
 owner_id = ""
+support_username = "pseudo_dun_mec_support_au_cas_ou_ya_un_blem_mdr"
 
 owner_id = [int(owner_id)]
 

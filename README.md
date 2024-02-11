@@ -1,10 +1,10 @@
 # Always-Online (hi !!!)
-SelfBot Manager using discord.py lol
+un manager SelfBot utilsiant discord.py mdrrrrr
 
-## Use:
-Config in `config.py` and requirements in `requirements.txt`
-## Launch:
-just launch `always_online_manager.py`
-do `<prefix>help`
+## stv l'utiliser:
+config les trucs dans `config.py` et installe les trucs dans `requirements.txt`
+## lancement :exploding_head::
+lancve le truc là `always_online_manager.py`
+et fait `<prefix>help` !!!
 
-ppl that are connected wil have `<prefix>clear` command
+les gens qui sont co au SelfBot aurons la commande clear et un rpc
